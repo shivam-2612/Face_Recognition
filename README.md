@@ -23,7 +23,7 @@ It allows registering faces, recognizing them in real time, and marking attendan
 
 2. **Clone the Repository**
    ```bash
-   git clone <your_repo_url>
+   git clone <https://github.com/shivam-2612/Face_Recognition.git>
    cd face-attendance
    ```
 
