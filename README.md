@@ -25,7 +25,7 @@ It allows registering faces, recognizing them in real time, and marking attendan
    ```bash
    git clone <your_repo_url>
    cd face-attendance
-````
+   ```
 
 3. **Install Dependencies**
 
