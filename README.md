@@ -101,5 +101,3 @@ Stores daily attendance records.
 * Face encodings are stored in MongoDB for persistence.
 * Attendance accuracy depends on camera quality and lighting.
 * Best results occur with front-facing faces and stable lighting.
-
-```
